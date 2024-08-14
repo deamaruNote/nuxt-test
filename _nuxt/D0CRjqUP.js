@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as c,a as e}from"./p_XOH379.js";const o={},n={class:"content"},_=e("h1",null,"Welcome to Nuxt 3",-1),a=e("div",{class:"list"},[e("div",{class:"item"})],-1),i=[_,a];function d(r,l){return c(),t("div",n,i)}const h=s(o,[["render",d]]);export{h as default};
