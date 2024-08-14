@@ -2,10 +2,11 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+  "homepage": "https://deamaruNote.github.io/nuxt-test",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "deploy": "gh-pages -d src",
+    "deploy": "gh-pages --dotfiles -d .output/public",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -16,7 +17,8 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "sass": "^1.77.8"
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0"
   },
   "version": "1.0.0",
   "description": "Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
