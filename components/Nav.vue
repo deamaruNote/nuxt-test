@@ -1,7 +1,7 @@
 <template>
   <div class="btn-group">
-    <NuxtLink class="button" to="/"> INDEX </NuxtLink>
-    <NuxtLink class="button" to="/events"> EVENTS </NuxtLink>
+    <NuxtLink class="button" to="/"> Vuex </NuxtLink>
+    <NuxtLink class="button" to="/events"> Pinia </NuxtLink>
   </div>
 </template>
 

@@ -1,10 +1,9 @@
-<!-- pages/index.vue -->
+import {Vuex} from './vuex.vue';
+
 <template>
   <div class="content">
-    <h1>Welcome to Nuxt 3</h1>
-    <div class="list">
-        <div class="item"></div>
-    </div>
+    <h1>Vue 的使用入門</h1>
+    <Vuex />
   </div>
 </template>
 
