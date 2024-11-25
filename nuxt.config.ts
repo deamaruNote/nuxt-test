@@ -3,6 +3,10 @@
 // import { resolve } from 'path';
 
 export default defineNuxtConfig({
+  app: {
+    baseURL: process.env.NODE_ENV === 'production' ? '/nuxt-test/' : '/',
+    buildAssetsDir: '/static/'
+  },
   alias: {
     // '@components': resolve(__dirname, './components'),
     // '@assets': resolve(__dirname, './assets'),
