@@ -1,4 +1,4 @@
-import{_ as t,o as n,c as s,q as o,b as c,a as d}from"./ClpKIiB7.js";const a={},u={class:""},l=o(`<ul><li><div class="card"><div class="title">安裝 Vuex：</div><pre>npm install vuex</pre></div></li><li><div class="card"><div class="title">創建一個 Vuex Store：</div><div class="url">store/index.js</div><pre><code class="language-javascript">
+import{_ as t,o as n,c as s,q as o,b as c,a as d}from"./CFFdOR1B.js";const a={},u={class:""},l=o(`<ul><li><div class="card"><div class="title">安裝 Vuex：</div><pre>npm install vuex</pre></div></li><li><div class="card"><div class="title">創建一個 Vuex Store：</div><div class="url">store/index.js</div><pre><code class="language-javascript">
 import Vue from &#39;vue&#39;;
 import Vuex from &#39;vuex&#39;;
 
