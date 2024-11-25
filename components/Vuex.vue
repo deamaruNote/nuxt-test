@@ -11,7 +11,7 @@
         <div class="card">
           <div class="title">創建一個 Vuex Store：</div>
           <div class="url">store/index.js</div>
-          <pre>
+          <pre><code class="language-javascript">
 import Vue from 'vue';
 import Vuex from 'vuex';
 
@@ -36,9 +36,8 @@ export default new Vuex.Store({
       return state.count * 2;
     },
   },
-});
-  </pre
-          >
+});</code>
+  </pre>
         </div>
       </li>
       <li>
