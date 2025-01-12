@@ -16,3 +16,5 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
     rm -rf node_modules package-lock.json
     npm install
 ```
+
+[link](https://deamarunote.github.io/nuxt-test/)
